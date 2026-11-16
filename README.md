@@ -1,2 +1,6 @@
 # msfsearch
 idk even know atp....
+
+for people who dont know how to use search in metasploit here you go.....
+
+heres a 30 line script
